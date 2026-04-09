@@ -72,11 +72,11 @@ export default function LandingPage() {
           imageAlt: "Trainer session",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/abstract-blur-gym-fitness-room_74190-4648.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/abstract-blur-gym-fitness-room_74190-4648.jpg?_wi=1",
           imageAlt: "Modern gym equipment",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/exercise-international-group-relaxation-fitness-concept_53876-23480.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/exercise-international-group-relaxation-fitness-concept_53876-23480.jpg?_wi=1",
           imageAlt: "Group training space",
         },
       ]}
@@ -94,12 +94,12 @@ export default function LandingPage() {
         {
           title: "Strength Training",
           description: "Build muscle and improve endurance with our professional-grade weight lifting equipment.",
-          imageSrc: "http://img.b2bpic.net/free-photo/abstract-blur-gym-fitness-room_74190-4648.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/abstract-blur-gym-fitness-room_74190-4648.jpg?_wi=2",
         },
         {
           title: "Group Cardio",
           description: "Join our dynamic group sessions designed to torch calories and improve heart health.",
-          imageSrc: "http://img.b2bpic.net/free-photo/exercise-international-group-relaxation-fitness-concept_53876-23480.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/exercise-international-group-relaxation-fitness-concept_53876-23480.jpg?_wi=2",
         },
         {
           title: "Recovery Zone",
